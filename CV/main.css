@@ -1,0 +1,22 @@
+html {
+    padding: 0;
+    margin: 0;
+  }
+  .info-rrss {
+    background-color: rgb(28, 104, 100);
+    /* min-height: 100px; */
+
+    .rrss {
+        flex-direction: row;
+        justify-content: space-around;
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 20px 0;
+      }
+
+
+
+
+  
+  
+  }
